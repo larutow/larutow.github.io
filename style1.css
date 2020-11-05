@@ -1,0 +1,39 @@
+
+.jumbotron 
+{
+    background: url("media/biggerflag.svg") center no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 0;
+
+    height: 100vh;
+
+}
+
+.jumbotron .container-fluid{
+    height: 100vh;
+}
+
+.jumbotron .container-fluid .row{
+    height: 33%;
+    color: ivory;
+
+}
+
+
+#home{
+    padding: 0px;
+}
+
+#hometext{
+    text-align: center;
+
+}
+
+#established
+{
+    color: black;
+    font-style: italic;
+}
+
