@@ -42,6 +42,11 @@
     font-size: small;
 }
 
+#navbrandtext{
+    border-top: 2px solid ivory;
+    border-bottom: 2px solid ivory;
+}
+
 #home{
     padding: 0px;
 }
