@@ -1,6 +1,7 @@
 
 .jumbotron 
 {
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
     background: url("media/biggerflag.svg") center no-repeat;
     background-size: cover;
     position: relative;
@@ -21,6 +22,25 @@
 
 }
 
+.projectblock{
+    padding-top: 20px;
+}
+
+#project1{
+    padding-top: 0px;
+}
+
+.content{
+    padding-bottom: 45px;
+}
+
+.footer{
+    background-color:#0D2240;
+    color: ivory;
+    padding-top: 30px;
+    padding-bottom: 65px;
+    font-size: small;
+}
 
 #home{
     padding: 0px;
